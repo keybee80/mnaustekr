@@ -4,7 +4,10 @@
   "description": "MňauŠtěkr v0.01",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -13,9 +16,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/keybee80/mnaustekr/issues"
   },
-  "homepage": "https://github.com/keybee80/mnaustekr#readme"
+  "homepage": "https://github.com/keybee80/mnaustekr#readme",
+  "dependencies": {
+    "next": "^16.3.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "private": "true"
 }
