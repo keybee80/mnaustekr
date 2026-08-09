@@ -1,0 +1,21 @@
+{
+  "name": "mnaustekr",
+  "version": "1.0.0",
+  "description": "MňauŠtěkr v0.01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keybee80/mnaustekr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/keybee80/mnaustekr/issues"
+  },
+  "homepage": "https://github.com/keybee80/mnaustekr#readme"
+}
