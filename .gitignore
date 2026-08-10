@@ -2,3 +2,9 @@ node_modules/
 .env*
 .next/
 .env.local
+
+# Local working backup
+codex-spec-backup.diff
+
+# Logs
+*.log
